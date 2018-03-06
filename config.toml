@@ -1,3 +1,18 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://gokurs.github.io/"
+languageCode = "de"
+title = "Online Kurse zu Go (Golang)"
+theme = "hugo_theme_beg"
+
+[Taxonomies]
+    tag = "tags"
+    kurs = "kurse"
+
+
+
+[[menu.main]]
+    identifier = "kurse"
+    name = "Kurse"
+    url = "/kurse"
+    weight = 2
+
+
