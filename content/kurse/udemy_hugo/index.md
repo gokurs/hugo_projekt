@@ -3,7 +3,7 @@ title= "Deine kostenlose Homepage mit Hugo und GitHub"
 date= 2018-03-06T21:49:38+01:00
 draft= false
 tags= ["Hugo","Udemy","GitHub", "GitHubPages"]
-kurse= ["Udmey Hugo"]
+kurse= ["Udemy Hugo"]
 +++
 
 Dieser Udemy Kurs zeigt Dir, wie Du Dir einen kostenlosen Weblog einrichtest und hosten lässt. Dafür bekommst Du alle Grundlagen vermittelt, welche Du benötigst, um möglichst einfach und unkompliziert eine erfolgreiche Webseite zu erstellen. Wenn man den Ablauf einmal verstanden hat, ist die Pflege und Aktualisierung Deiner Seite ein Kinderspiel.
